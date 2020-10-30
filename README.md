@@ -40,6 +40,7 @@ not applicable
 
 
 ## Change Log
+1.8: *added a method to authorizeBasic middleware and refactored this middleware to accept basic or bearer headers* 29 October 2020
 1.7: *I believe it has finished with all the information being retrieved, final acp and submission* - 28 oct 2020
 1.6: *fixed the method, changed out the URL from the get and changed the set from token to Bearer* 28 Oct 2020
 1.5: *hours later.........was able to find the issue and changed the redirect_url and now retrives the token but issues with remoteUser method* 28 oct 2020
